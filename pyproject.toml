@@ -1,5 +1,5 @@
 [project]
-name = "hf-uv-cursor-template"
+name = "huggingface-uv-cursor"
 version = "0.1.0"
 description = "A sandbox project for experimenting with Hugging Face and Python"
 authors = []

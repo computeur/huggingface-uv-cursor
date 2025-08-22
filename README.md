@@ -1,4 +1,4 @@
-# hf-uv-cursor-template
+# huggingface-uv-cursor
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![uv](https://img.shields.io/badge/uv-managed-6E56CF)
@@ -30,7 +30,7 @@ macOS/MPS‑optimized Hugging Face starter managed by uv; works in VS Code/Curso
 ## 📁 Project Structure
 
 ```
-hf-sandbox/
+huggingface-uv-cursor/
 ├── .vscode/
 │   └── settings.json          # VS Code/Cursor settings
 ├── notebooks/
