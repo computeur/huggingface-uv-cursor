@@ -142,11 +142,17 @@ python src/gradio_demo.py
 
 ## 📦 Dependencies
 
-Core dependencies are defined in `pyproject.toml`:
-- transformers, datasets, accelerate
-- torch, torchvision, torchaudio
-- jupyterlab, ipywidgets
-- gradio, wandb, evaluate
+Core dependencies are defined in `pyproject.toml` and require Python 3.10+.
+
+Install with uv (recommended):
+```bash
+uv pip install -e .
+```
+
+If you prefer pip:
+```bash
+pip install -e .
+```
 
 ## 🔒 Privacy & safety
 
